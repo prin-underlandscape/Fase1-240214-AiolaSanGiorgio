@@ -58,7 +58,9 @@
             "Ora": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
           },
           "geometry": {
             "type": "MultiLineString",
@@ -2904,7 +2906,7 @@
         "color": "Brown",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo}\n##   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n{Descrizione}\n--- \n**Lunghezza** (km): {Lunghezza}\n**Durata**: {Durata}\n**Dislivello in salita** (m): {Dislivello in salita}\n**Dislivello in discesa** (m): {Dislivello in discesa} \n--- \nRegistrato il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+        "popupContentTemplate": "# {Titolo}\n##   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n##   [[{GitHubURL}|GitHub repository]] \n{Descrizione}\n--- \n**Lunghezza** (km): {Lunghezza}\n**Durata**: {Durata}\n**Dislivello in salita** (m): {Dislivello in salita}\n**Dislivello in discesa** (m): {Dislivello in discesa} \n--- \nRegistrato il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
       }
     },
     {
@@ -2926,7 +2928,9 @@
             "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
           },
           "geometry": {
             "type": "Point",
@@ -2953,9 +2957,12 @@
             "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default",
+              "color": "MediumBlue",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/monument.svg"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
           },
           "geometry": {
             "type": "Point",
@@ -2982,7 +2989,9 @@
             "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
           },
           "geometry": {
             "type": "Point",
@@ -3009,7 +3018,9 @@
             "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
           },
           "geometry": {
             "type": "Point",
@@ -3037,7 +3048,9 @@
             "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
           },
           "geometry": {
             "type": "Point",
@@ -3064,9 +3077,12 @@
             "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default",
+              "color": "MediumBlue",
               "iconClass": "Drop",
               "iconUrl": "/uploads/pictogram/monument.svg"
-            }
+            },
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
           },
           "geometry": {
             "type": "Point",
@@ -3074,122 +3090,6 @@
               10.1361752,
               44.1589405,
               506
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "ulsp_type": "POI",
-            "Titolo": "Deviazione per Eremo di San Giorgio",
-            "Foto": "https://i.postimg.cc/g0qtbJ6Q/Aiola-Eremo-SGiorgio-2.jpg",
-            "Descrizione": "",
-            "Altitudine": "854",
-            "Autore": "",
-            "Strumento": "",
-            "Data": "2024-02-1411:08:36",
-            "Ora": "11:08:36",
-            "Tag primario": "Segnalazione",
-            "Altri tag": "",
-            "_umap_options": {
-              "popupTemplate": "Default",
-              "iconClass": "Drop",
-              "iconUrl": "/uploads/pictogram/guidepost.svg"
-            }
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              10.1454198,
-              44.1547036,
-              854
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "ulsp_type": "POI",
-            "Titolo": "Bivio per la Torre del Castellaccio",
-            "Foto": "https://i.postimg.cc/C1cvdQ74/Aiola-Eremo-SGiorgio-7.jpg",
-            "Descrizione": "",
-            "Altitudine": "506",
-            "Autore": "",
-            "Strumento": "",
-            "Data": "2024-02-1409:35:57",
-            "Ora": "09:35:57",
-            "Tag primario": "Segnalazione",
-            "Altri tag": "",
-            "_umap_options": {
-              "popupTemplate": "Default",
-              "iconClass": "Drop",
-              "iconUrl": "/uploads/pictogram/guidepost.svg"
-            }
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              10.1375108,
-              44.1596108,
-              506
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "ulsp_type": "POI",
-            "Titolo": "Secondo bivio per il sito del Castellaccio",
-            "Foto": "https://i.postimg.cc/rsbQNRv0/Aiola-Eremo-SGiorgio-8.jpg",
-            "Descrizione": "",
-            "Altitudine": "462",
-            "Autore": "",
-            "Strumento": "",
-            "Data": "2024-02-14",
-            "Ora": "09:24:44",
-            "Tag primario": "Segnalazione",
-            "Altri tag": "",
-            "_umap_options": {
-              "popupTemplate": "Default",
-              "iconClass": "Drop",
-              "iconUrl": "/uploads/pictogram/guidepost.svg"
-            }
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              10.1367065,
-              44.1598125,
-              462
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "ulsp_type": "POI",
-            "Titolo": "Bivio per sito del Castellaccio",
-            "Foto": "https://i.postimg.cc/7YFKC73j/Aiola-Eremo-SGiorgio-9.jpg",
-            "Descrizione": "",
-            "Altitudine": "369",
-            "Autore": "",
-            "Strumento": "",
-            "Data": "2024-02-14",
-            "Ora": "09:08:33",
-            "Tag primario": "Segnalazione",
-            "Altri tag": "",
-            "_umap_options": {
-              "popupTemplate": "Default",
-              "iconClass": "Drop",
-              "iconUrl": "/uploads/pictogram/guidepost.svg"
-            }
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              10.1379638,
-              44.1620211,
-              369
             ]
           }
         }
@@ -3203,7 +3103,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo} ({Tag primario})\n{{{Foto}|300}} \n##   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n{Descrizione} \n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}\n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}} \n##   [[{GitHubURL}|GitHub repository]] \n##   [[{Link}|Link]] alla pagina dedicata \n{Descrizione} \n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}\n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
       }
     },
     {
@@ -3218,7 +3118,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo} \n{{{Foto}|300}} \n \n{Testo} \n \nFID: {fid}"
+        "popupContentTemplate": "# {Titolo} \n{{{Foto}|300}} \n## [[{GitHubURL}|GitHub repository]] \n{Testo} \n \nFID: {fid}"
       }
     },
     {
@@ -3233,7 +3133,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} ( [[https://sites.google.com/view/prin-underlandscape/{Link}|link]])\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[https://sites.google.com/view/prin-underlandscape/home-page/bibliografie/{Sito}|bibliografia]]"
+        "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} \n##   [[{GitHubURL}|GitHub repository]] \n## [[{Link}|Link]] alla pagina dedicata\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[{Bibliografia}|Link]] alla bibliografia"
       }
     }
   ],
