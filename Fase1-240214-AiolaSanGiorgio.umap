@@ -60,7 +60,7 @@
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
           },
           "geometry": {
             "type": "MultiLineString",
@@ -2930,7 +2930,7 @@
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
           },
           "geometry": {
             "type": "Point",
@@ -2953,16 +2953,15 @@
             "Strumento": "",
             "Data": "2024-02-14",
             "Ora": "11:44:20",
-            "Tag primario": "Monumento",
-            "Altri tag": "",
+            "Tag primario": "",
+            "Altri tag": [
+              "Monumento"
+            ],
             "_umap_options": {
-              "popupTemplate": "Default",
-              "color": "MediumBlue",
-              "iconClass": "Drop",
-              "iconUrl": "/uploads/pictogram/monument.svg"
+              "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
           },
           "geometry": {
             "type": "Point",
@@ -2991,7 +2990,7 @@
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
           },
           "geometry": {
             "type": "Point",
@@ -3015,12 +3014,14 @@
             "Data": "2024-02-14",
             "Ora": "10:18:02",
             "Tag primario": "",
-            "Altri tag": "",
+            "Altri tag": [
+              "Attrazione naturalistica"
+            ],
             "_umap_options": {
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
           },
           "geometry": {
             "type": "Point",
@@ -3034,7 +3035,6 @@
         {
           "type": "Feature",
           "properties": {
-            "name": "Ciliegio",
             "ulsp_type": "POI",
             "Titolo": "Ciliegio",
             "Foto": "https://i.postimg.cc/FFMYgcbm/IMG-20240214-122921.jpg",
@@ -3045,12 +3045,14 @@
             "Data": "2024-02-14",
             "Ora": "11:28:07",
             "Tag primario": "",
-            "Altri tag": "",
+            "Altri tag": [
+              "Attrazione naturalistica"
+            ],
             "_umap_options": {
               "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
           },
           "geometry": {
             "type": "Point",
@@ -3073,16 +3075,15 @@
             "Strumento": "",
             "Data": "2024-02-1414:34:12",
             "Ora": "14:34:12",
-            "Tag primario": "Monumento",
-            "Altri tag": "",
+            "Tag primario": "",
+            "Altri tag": [
+              "Monumento"
+            ],
             "_umap_options": {
-              "popupTemplate": "Default",
-              "color": "MediumBlue",
-              "iconClass": "Drop",
-              "iconUrl": "/uploads/pictogram/monument.svg"
+              "popupTemplate": "Default"
             },
             "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
-            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
+            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
           },
           "geometry": {
             "type": "Point",
@@ -3134,6 +3135,21 @@
         "popupShape": "Panel",
         "popupTemplate": "Table",
         "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} \n##   [[{GitHubURL}|GitHub repository]] \n## [[{Link}|Link]] alla pagina dedicata\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[{Bibliografia}|Link]] alla bibliografia"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Risorsa",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "Brown",
+        "iconClass": "Ball",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}}\n{Descrizione}\n**Altitudine** (m): {Altitudine}\n**Repository GitHub**: [[{GitHubURL}|link]]\n**Pagina descrittiva dell'itinerario**: [[{ULSPLink}|link]]\n**Pagina descrittiva della risorsa** :[[{Link}|link]]\n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}"
       }
     }
   ],
