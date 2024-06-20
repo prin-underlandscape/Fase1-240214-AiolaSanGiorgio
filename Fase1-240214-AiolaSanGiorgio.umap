@@ -43,7 +43,7 @@
             "Provincia": "Lucca",
             "Comune": "Fivizzano",
             "Punto d'accesso": "Abitato di Aiola",
-            "Foto accesso": "https://i.postimg.cc/BbGm2bMg/IMG-20240214-100134.jpg",
+            "Foto accesso": "",
             "Descrizione": "Sentiero CAI nr. 39 che da Aiola prosegue in direzione di Vinca, a metà del quale si trova la deviazione per il sito dell'Eremo di San Giorgio",
             "Difficoltà": "Media difficoltà",
             "Lunghezza": "2.9",
@@ -3138,7 +3138,9 @@
             "Data": "2024-02-1409:35:57",
             "Ora": "09:35:57",
             "Tag primario": "",
-            "Altri tag": "",
+            "Altri tag": [
+              "Segnaletica"
+            ],
             "_umap_options": {
               "popupTemplate": "Default"
             },
@@ -3272,6 +3274,20 @@
         "popupShape": "Panel",
         "popupTemplate": "Table",
         "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}}\n{Descrizione}\n**Altitudine** (m): {Altitudine}\n**Repository GitHub**: [[{GitHubURL}|link]]\n**Pagina descrittiva dell'itinerario**: [[{ULSPLink}|link]]\n**Pagina descrittiva della risorsa** :[[{Link}|link]]\n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "name": "Itinerario",
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "color": "Green",
+        "popupShape": "Panel",
+        "popupTemplate": "Table",
+        "popupContentTemplate": "# {Titolo}\n## Itinerario {Tipologia}\n   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n##   [[{GitHubURL}| Download ]] \n{Descrizione}\n--- \n**Lunghezza** (km): {Lunghezza}\n**Durata**: {Durata}\n**Dislivello in salita** (m): {Dislivello in salita}\n**Dislivello in discesa** (m): {Dislivello in discesa}"
       }
     }
   ],

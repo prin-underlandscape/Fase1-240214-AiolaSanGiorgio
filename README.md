@@ -41,6 +41,4 @@ Sopralluogo nell'area di Aiola e all'Eremo di San Giorgio, lungo il sentiero 39
 
 ****
 ## Percorso: Aiola-Eremo di San Giorgio
-[<img src='/vignettes/BbGm2bMg.jpg' width='250'/>](/vignettes/BbGm2bMg.jpg) 
-
 **Sentiero CAI nr. 39 che da Aiola prosegue in direzione di Vinca, a metà del quale si trova la deviazione per il sito dell'Eremo di San Giorgio**
