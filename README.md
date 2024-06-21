@@ -1,4 +1,4 @@
-# Fase1-240214-AiolaSanGiorgio ([mappa](https://umap.openstreetmap.fr/it/map/fase1-240214-aiolasangiorgio_1066578))
+# Fase1-240214-AiolaSanGiorgio ([mappa](https://umap.openstreetmap.fr/it/map/fase1-240214-aiolasangiorgio_1085602))
 Sopralluogo nell'area di Aiola e all'Eremo di San Giorgio, lungo il sentiero 39
 ## POI: Terrazzamenti
 [<img src='/vignettes/SRjg9ftb.jpg' width='250'/>](/vignettes/SRjg9ftb.jpg) 
@@ -40,5 +40,7 @@ Sopralluogo nell'area di Aiola e all'Eremo di San Giorgio, lungo il sentiero 39
 [<img src='/vignettes/7YFKC73j.jpg' width='250'/>](/vignettes/7YFKC73j.jpg) 
 
 ****
+## POI: SVOLTA
+**Giunta**
 ## Percorso: Aiola-Eremo di San Giorgio
 **Sentiero CAI nr. 39 che da Aiola prosegue in direzione di Vinca, a metà del quale si trova la deviazione per il sito dell'Eremo di San Giorgio**
