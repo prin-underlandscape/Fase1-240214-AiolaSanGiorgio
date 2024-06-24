@@ -3215,35 +3215,6 @@
               369
             ]
           }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "ulsp_type": "POI",
-            "Titolo": "SVOLTA",
-            "Foto": "",
-            "Descrizione": "Giunta",
-            "Altitudine": "",
-            "Autore": "",
-            "Strumento": "",
-            "Data": "",
-            "Ora": "",
-            "Tag primario": "",
-            "Altri tag": [],
-            "_umap_options": {
-              "popupTemplate": "Default"
-            },
-            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-240214-AiolaSanGiorgio",
-            "ULSPLink": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/14-febbraio-2024-aiola"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              10.1454587,
-              44.1546232,
-              847.8
-            ]
-          }
         }
       ],
       "_umap_options": {
@@ -3321,9 +3292,9 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      10.1382911,
-      44.1631301,
-      333.26
+      10.1420585,
+      44.15538,
+      805
     ]
   }
 }
