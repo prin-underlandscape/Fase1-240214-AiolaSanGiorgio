@@ -1,4 +1,4 @@
-# Fase1-240214-AiolaSanGiorgio ([mappa](https://umap.openstreetmap.fr/it/map/fase1-240214-aiolasangiorgio_1066578))
+# Fase1-240214-AiolaSanGiorgio ([mappa](https://umap.openstreetmap.fr/it/map/fase1-240214-aiolasangiorgio_1085602))
 Sopralluogo nell'area di Aiola e all'Eremo di San Giorgio, lungo il sentiero 39
 ## POI: Terrazzamenti
 [<img src='/vignettes/SRjg9ftb.jpg' width='250'/>](/vignettes/SRjg9ftb.jpg) 
