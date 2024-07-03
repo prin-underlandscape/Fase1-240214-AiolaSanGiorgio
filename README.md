@@ -3,7 +3,7 @@ Sopralluogo nell'area di Aiola e all'Eremo di San Giorgio, lungo il sentiero 39
 ## POI: Terrazzamenti
 [<img src='/vignettes/SRjg9ftb.jpg' width='250'/>](/vignettes/SRjg9ftb.jpg) 
 
-**Terrazzamenti visibili lungo il percorso sul versante sotto l'eremo di San Giorgio**
+**Terrazzamenti visibili lungo il percorso, sul versante sotto l'eremo di San Giorgio**
 ## POI: Eremo di San Giorgio
 [<img src='/vignettes/L51M8Jh3.jpg' width='250'/>](/vignettes/L51M8Jh3.jpg) 
 
