@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.15538" lon="10.1420585">
+    <ele>500</ele>
+    <name>Terrazzamenti</name>
+    <desc>Terrazzamenti visibili lungo il percorso, sul versante sotto l'eremo di San Giorgio</desc>
+  </wpt>
+  <wpt lat="44.1564331" lon="10.141899">
+    <ele>500</ele>
+    <name>Eremo di San Giorgio</name>
+    <desc>Oggi in stato di rudere, l'eremo è un complesso architettonico costituito da una chiesetta che potrebbe risalire all'età medievale e da una serie di ambienti di servizio di età moderna</desc>
+  </wpt>
+  <wpt lat="44.1547036" lon="10.145422">
+    <ele>500</ele>
+    <name>Bivacco</name>
+    <desc>Edificio con focolare esterno e acqua, al bivio tra il sentiero 39 e la deviazione per l'eremo di San Giorgio</desc>
+  </wpt>
+  <wpt lat="44.1575471" lon="10.1385958">
+    <ele>500</ele>
+    <name>Crostone</name>
+    <desc>Imponente emergenza rocciosa che si staglia lungo il versante</desc>
+  </wpt>
+  <wpt lat="44.1546457" lon="10.1453862">
+    <ele>500</ele>
+    <name>Ciliegio</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.1589405" lon="10.1361752">
+    <ele>500</ele>
+    <name>Castello di Sopra</name>
+    <desc>Area superiore del Castellaccio con una torre circolare di avvistamento e una porzione della cinta muraria</desc>
+  </wpt>
+  <wpt lat="44.1547036" lon="10.1454198">
+    <ele>500</ele>
+    <name>Deviazione per Eremo di San Giorgio</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.1596108" lon="10.1375108">
+    <ele>500</ele>
+    <name>Bivio per la Torre del Castellaccio</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.1598125" lon="10.1367065">
+    <ele>500</ele>
+    <name>Secondo bivio per il sito del Castellaccio</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.1620211" lon="10.1379638">
+    <ele>500</ele>
+    <name>Bivio per sito del Castellaccio</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Aiola-Eremo di San Giorgio</name>
+    <desc>Sentiero CAI nr. 39 che da Aiola prosegue in direzione di Vinca, a metà del quale si trova la deviazione per il sito dell'Eremo di San Giorgio</desc>
+    <trkseg>
+      <trkpt lat="[10.1382839, 44.1631129, 333.26]" lon="[10.1382911, 44.1631301, 333.26]">
+        <ele>[10.1382955, 44.1630289, 333.26]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
